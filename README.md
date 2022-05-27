@@ -61,7 +61,7 @@ How I achieved agile methodology?
 
     - [x] Research on cosine similarity
     - [x] Searched various databases and selecting a suitable one
-    - [x] Setyp jupyter notebook
+    - [x] Setup jupyter notebook
     - [x] Analysed the database and setup the features list
 
   - **Sprint 3** -
