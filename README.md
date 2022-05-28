@@ -2,6 +2,10 @@
 
 This is a a content based movie recommendation system using cosine similarity made during the [Microsoft Engage Mentorship Program 2022](https://acehacker.com/microsoft/engage2022/).
 
+<p align="center">
+    <img src="images/cover.jpeg" width="750" height="400">
+</p>
+
 ## 🚩 Problem Statement
 
 Demonstrate through your app the different kinds of algorithms that a web-streaming app (like Netflix) or an audio-streaming app (like Spotify) may use for their Recommendation Engine.
@@ -22,9 +26,9 @@ The problem was divided into several steps:
 
 3. **EDA:** Extensive data visualisation and summary statistics were used to extract insights and pattern from the various datasets.
 
-4. **Using the Cosine Similarity:** We will use the Cosine Similarity from Sklearn, as the metric to compute the similarity between two movies.
+4. **Cosine Similarity:** I have used the Cosine Similarity from Sklearn, as the metric to compute the similarity between two movies.
 
-5. **Machine Learning:** I brought together ideas from content based filtering to build an engine that gave movie suggestions to a user based on the estimated ratings that it had internally calculated.
+5. **Hybrid Engine:** I brought together ideas from content and collaborative filtering to build an engine that gave movie suggestions to a user based on the estimated ratings that it had internally calculated.
 
 <p align="center">
     <img src="images/chart.jpeg" width="750" height="400">
