@@ -24,7 +24,11 @@ The problem was divided into several steps:
 
 4. **Using the Cosine Similarity:** We will use the Cosine Similarity from Sklearn, as the metric to compute the similarity between two movies.
 
-5. **Hybrid Engine:** I brought together ideas from content and collaborative filtering to build an engine that gave movie suggestions to a particular user based on the estimated ratings that it had internally calculated for that user.
+5. **Machine Learning:** I brought together ideas from content based filtering to build an engine that gave movie suggestions to a user based on the estimated ratings that it had internally calculated.
+
+<p align="center">
+    <img src="images/chart.jpeg" width="700" height="450">
+</p>
 
 ## 🚩 How cosine similarity works in my project?
 
