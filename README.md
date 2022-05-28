@@ -27,7 +27,7 @@ The problem was divided into several steps:
 5. **Machine Learning:** I brought together ideas from content based filtering to build an engine that gave movie suggestions to a user based on the estimated ratings that it had internally calculated.
 
 <p align="center">
-    <img src="images/chart.jpeg" width="700" height="450">
+    <img src="images/chart.jpeg" width="750" height="400">
 </p>
 
 ## 🚩 How cosine similarity works in my project?
