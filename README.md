@@ -3,7 +3,7 @@
 This is a a content based movie recommendation system using cosine similarity made during the [Microsoft Engage Mentorship Program 2022](https://acehacker.com/microsoft/engage2022/).
 
 <p align="center">
-    <img src="images/cover.jpeg" width="750" height="400">
+    <img src="images/cover.png" width="750" height="400">
 </p>
 
 ## 🚩 Problem Statement
